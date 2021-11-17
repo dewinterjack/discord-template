@@ -1,0 +1,12 @@
+{
+  "name": "discord-template",
+  "version": "1.0.0",
+  "repository": "https://github.com/dewinterjack/league-bot.git",
+  "author": "Jack Dewinter",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord-interactions": "^2.4.1",
+    "raw-body": "^2.4.2"
+  }
+}
